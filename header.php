@@ -15,6 +15,13 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="contact.php">Contact</a></li>
+                <li><a href=>Admission</a></li>
+                <li><a href="adminlogin.php">Admin login</a></li>
+                <li><a href=>Student login</a></li>
+                <li><a href="image.php">Gallery</a></li>
+
+                
+                
             </ul>
 
         </nav>

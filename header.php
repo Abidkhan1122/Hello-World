@@ -26,6 +26,6 @@
 
         </nav>
         <br>
-        <img src="institutes.png" >
+        <img src="MSHHS.jpg"height="1000">
         <br>
     </header>

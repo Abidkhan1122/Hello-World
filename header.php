@@ -17,7 +17,7 @@
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href=>Admission</a></li>
                 <li><a href="adminlogin.php">Admin login</a></li>
-                <li><a href=>Student login</a></li>
+                <li><a href="Studentlogin.php">Student login</a></li>
                 <li><a href="image.php">Gallery</a></li>
 
                 

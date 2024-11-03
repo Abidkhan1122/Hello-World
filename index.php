@@ -9,7 +9,7 @@
 
 <style>
     body{
-        background:url(https://th.bing.com/th/id/OIP.p6PygW48mOWZIrVxYhuiuQHaE8?w=4752&h=3168&rs=1&pid=ImgDetMain);
+        background:url(https://thumbs.dreamstime.com/z/middle-school-building-20723831.jpg?ct=jpeg);
 
     }
 </style>
